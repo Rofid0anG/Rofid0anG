@@ -1,6 +1,6 @@
 # Halo Semuanya
 ```
 Nama : Rofi
-Umur : 19 tahun
+Umur : 19 Tahun
 Hobi : Membaca
 ```
